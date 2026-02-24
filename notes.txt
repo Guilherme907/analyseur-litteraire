@@ -1,0 +1,1 @@
+echo "" > nom_du_fichier
